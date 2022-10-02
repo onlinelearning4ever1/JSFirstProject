@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-console.log("hello, world!");
+let firstName = "Eswar";
+let lastName = "Pappu";
+console.log("hello, world!", "\t New line");
